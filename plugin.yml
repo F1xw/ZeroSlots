@@ -1,0 +1,6 @@
+main: tech.flowei.ZeroSlots.Main
+name: ZeroSlots
+version: 1.0.0
+author: F1xw
+description: Reports zero slots
+api-version: 1.20
